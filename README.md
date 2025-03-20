@@ -7,7 +7,7 @@ O Runner é um gerenciador de tarefas leve, desenvolvido em C, que fornece feedb
  -Uso da memória
  -Gráficos com histórico de desempenho
 
-O Runner roda em segundo plano e pode ser acessado a qualquer momento.
+O Runner roda em segundo plano e pode ser acessado a qualquer momento utilizando o atalho ant + z.
 
 É possível coloca-lo para iniciar junto ou depois do windows, além de ser possível abrir ele clicando em seu ícone na área de trabalho.
 Após ele iniciar, os dados dos hardwares do seu computador já serão coletados e mostrados na tela, juntamente com os gráficos de histórico de desempenho deles.
